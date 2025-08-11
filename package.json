@@ -1,0 +1,26 @@
+{
+  "name": "foodwarning",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.1",
+    "vite": "^5.1.6"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "dotenv": "^17.2.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
