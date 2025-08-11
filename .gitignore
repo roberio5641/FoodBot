@@ -1,3 +1,16 @@
+# Diretórios de dependências
+node_modules/
+  
+# Arquivos de ambiente
 src/.env
-src/auth
-/node_modules
+src/auth/
+
+# Arquivos de sistema e IDE
+.DS_Store
+.thumbs.db
+.idea/
+.vscode/
+  
+# Logs e temporários
+*.log
+*.tmp
